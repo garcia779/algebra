@@ -1,1 +1,4 @@
-.img-principal{max-width:100%;display:block;margin:20px auto;border-radius:10px;}
+body{font-family:Arial;margin:0;background:#f4f4f4}
+header,footer{text-align:center;background:#333;color:#fff;padding:10px}
+main{padding:20px}
+.img-principal{max-width:100%;margin:20px auto;display:block;border-radius:10px}
